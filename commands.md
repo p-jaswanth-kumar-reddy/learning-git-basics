@@ -62,7 +62,6 @@ git rm file.txt
 git mv old.txt new.txt
 
 ### Important Concepts
-HEAD
 .gitignore
 
 ### Help
