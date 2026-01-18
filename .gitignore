@@ -1,1 +1,28 @@
+# macOS system files
+.DS_Store
 
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency folders
+node_modules/
+
+# Build / output folders
+dist/
+build/
+out/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
